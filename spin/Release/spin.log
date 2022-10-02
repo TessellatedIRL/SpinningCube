@@ -1,0 +1,22 @@
+﻿  Source.c
+C:\Users\Shantanu\source\repos\spin\spin\Source.c(26,51): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shantanu\source\repos\spin\spin\Source.c(31,69): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shantanu\source\repos\spin\spin\Source.c(36,54): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shantanu\source\repos\spin\spin\Source.c(40,20): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Shantanu\source\repos\spin\spin\Source.c(40,27): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Shantanu\source\repos\spin\spin\Source.c(40,34): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Shantanu\source\repos\spin\spin\Source.c(41,20): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Shantanu\source\repos\spin\spin\Source.c(41,27): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Shantanu\source\repos\spin\spin\Source.c(41,34): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Shantanu\source\repos\spin\spin\Source.c(42,20): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Shantanu\source\repos\spin\spin\Source.c(42,27): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Shantanu\source\repos\spin\spin\Source.c(42,34): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Shantanu\source\repos\spin\spin\Source.c(114,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Shantanu\source\repos\spin\spin\Source.c(115,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Shantanu\source\repos\spin\spin\Source.c(116,18): warning C4305: '+=': truncation from 'double' to 'float'
+  Generating code
+  0 of 8 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  spin.vcxproj -> C:\Users\Shantanu\source\repos\spin\Release\spin.exe

@@ -1,0 +1,18 @@
+﻿  Source.c
+C:\Users\Shantanu\source\repos\spin\spin\Source.c(17,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Shantanu\source\repos\spin\spin\Source.c(26,51): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shantanu\source\repos\spin\spin\Source.c(31,69): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shantanu\source\repos\spin\spin\Source.c(36,54): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shantanu\source\repos\spin\spin\Source.c(40,20): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Shantanu\source\repos\spin\spin\Source.c(40,27): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Shantanu\source\repos\spin\spin\Source.c(40,34): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Shantanu\source\repos\spin\spin\Source.c(41,20): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Shantanu\source\repos\spin\spin\Source.c(41,27): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Shantanu\source\repos\spin\spin\Source.c(41,34): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Shantanu\source\repos\spin\spin\Source.c(42,20): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Shantanu\source\repos\spin\spin\Source.c(42,27): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Shantanu\source\repos\spin\spin\Source.c(42,34): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Shantanu\source\repos\spin\spin\Source.c(110,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Shantanu\source\repos\spin\spin\Source.c(111,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Shantanu\source\repos\spin\spin\Source.c(112,18): warning C4305: '+=': truncation from 'double' to 'float'
+  spin.vcxproj -> C:\Users\Shantanu\source\repos\spin\x64\Debug\spin.exe
